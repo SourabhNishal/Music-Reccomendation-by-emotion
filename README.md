@@ -1,2 +1,2 @@
-# Music-Reccomendation-by-emotion
-Emotion-Based Music Recommendation A music recommendation system that uses emotion detection to suggest songs. It analyzes users' emotional states and provides personalized music recommendations based on the detected emotions, enhancing the listening experience.
+# Music-Reccomendation-system
+This project is a Music Recommendation System that suggests songs based on a single song search query provided by the user. The system analyzes the input song and recommends similar songs to enhance the user's music discovery experience,also enhancing the listening experience.
